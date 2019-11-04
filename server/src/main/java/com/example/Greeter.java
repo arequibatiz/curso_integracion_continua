@@ -20,7 +20,7 @@ public class Greeter {
   public String greet(String someone) {
     Long lalala = new Long("2333");
     if(MAGICO > 1){
-        return String.format("Hello hola, %s!", someone);
+        return String.format("Hello hola hh, %s!", someone);
     }else{
         return String.format("Hello hola, %s!", someone);
     }
